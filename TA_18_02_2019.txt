@@ -1,0 +1,5 @@
+1. Structura documentului HTML
+2. Taguri de formatare a textului
+3. Imagini
+4. Hiperlinkuri
+5. Tabele
