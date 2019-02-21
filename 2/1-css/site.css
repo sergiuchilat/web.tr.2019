@@ -1,0 +1,17 @@
+#super-puper-hotel{
+	background: red; 
+	text-align: center; 
+	color: white;
+	height: 100px; 
+	width: 60%;
+}
+
+.hotel{
+	background: #4169c6;
+	border: 3px solid orange;
+	width: 250px;
+	height: 350px;
+	font-size: 50px;
+	text-align: center;
+	color: #FFFF00;
+}
