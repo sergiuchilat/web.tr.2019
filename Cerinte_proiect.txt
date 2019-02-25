@@ -1,0 +1,15 @@
+1. Situl trebuie sa fie eleborat in 2 versiuni:
+1.1 Bootstrap
+1.2 Html + CSS
+
+2. Situl trebuie sa contina cel putin 4 pagini cu diferita structura
+2.1. Pagina principala
+2.2. Pagina cu elemente (numerele din hotel, ofertele turistice ale unei agenmtii turistice etc)
+2.3. Pagina cu detalii (minimum 10 elemente cu aceeasi structura)
+2.4. Pagina de contact
+- harta Google
+- formularde feedback (nume, telefon, email etc)
+- datele de contact
+
+
+Pentru stitul realizat doar pe Bootstrap, nota maxima este 7
